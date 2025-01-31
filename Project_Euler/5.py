@@ -11,6 +11,6 @@ number = 2520
 while True:
     if Check_number(number):
         break
-    number +=20
+    number +=1
 
 print(number)
